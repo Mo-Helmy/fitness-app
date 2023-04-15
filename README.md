@@ -1,6 +1,6 @@
 ## IntroDuction
 
-you can preview this project with [Fitness App](https://project-youtube-clone-app.netlify.app/).
+you can preview this project with [Fitness App](https://project-fitness-app.netlify.app/).
 
 ## dependencies
 
